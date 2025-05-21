@@ -1,8 +1,9 @@
 [
 {
-    "nome": "fulano de tal",
-    "curso": "DS",
-    "faculdade": "Unicamp"
+    "name": "fulano de tal",
+    "course": "DS",
+    "university": "Unicamp",
+    "image": "img/bird.jpg"
 }, 
 
 {
